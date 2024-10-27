@@ -1,0 +1,7 @@
+{
+  "name": "momify",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
